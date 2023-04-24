@@ -1,5 +1,5 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=hrytsenko_json-data-spring-boot&metric=alert_status)](https://sonarcloud.io/dashboard?id=hrytsenko_json-data-spring-boot-3)
-[![](https://jitpack.io/v/hrytsenko/json-data-spring-boot.svg)](https://jitpack.io/#hrytsenko/json-data-spring-boot-3)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=hrytsenko_json-data-spring-boot-3&metric=alert_status)](https://sonarcloud.io/dashboard?id=hrytsenko_json-data-spring-boot-3)
+[![](https://jitpack.io/v/hrytsenko/json-data-spring-boot-3.svg)](https://jitpack.io/#hrytsenko/json-data-spring-boot-3)
 
 # JSON Data for Spring Boot 3
 

@@ -44,7 +44,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <json-data.version>0.2.1</json-data.version>
+    <json-data.version>1.0.0</json-data.version>
     <spring-boot.version>3.0.6</spring-boot.version>
 
     <lombock.version>1.18.26</lombock.version>
